@@ -1,0 +1,4 @@
+/.idea/
+*.cache
+/theme/node_modules
+/.project
