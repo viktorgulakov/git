@@ -12,11 +12,12 @@
 
   <script src="theme/js/libs.js"></script>
   <script src="theme/js/main.js"></script>
-  <script >
+  <script>
 
   </script>
 </head>
 <body>
-asd
+body
+
 </body>
 </html>
